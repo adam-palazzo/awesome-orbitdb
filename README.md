@@ -1,5 +1,8 @@
 # Awesome OrbitDB
 
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/orbitdb/Lobby)
+
+
 > Useful resources for using OrbitDB and building projects on it
 
 *This list is for projects, tools, or pretty much any things related to OrbitDB that are totally awesome. This is for products which are already awesome - if you have plans for cool stuff to do with OrbitDB, you should build it, and then link it here.*
